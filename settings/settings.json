@@ -1,0 +1,16 @@
+{
+    "spreadsheet" : {
+        "key" : "XXXXXXXXXXXX",
+        "secret_file" : "spreadsheet.json"
+    },
+    "youtube" :{
+        "key" : "XXXXXXXXXXXX", 
+        "channels" :[
+            {
+                "name" : "東海オンエア",
+                "id" : "UCutJqz56653xV2wwSvut_hQ",
+                "secret_file" : ""
+            }
+        ]
+    }
+}
